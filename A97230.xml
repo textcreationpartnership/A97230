@@ -1,0 +1,370 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Causes of the Lords vvrath against Scotland, manifested in his sad late dispensations. Whereunto is added a paper, particularly holding forth the sins of the ministery.</title>
+            <author>Warriston, Archibald Johnston, Lord, 1611-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97230</idno>
+            <idno type="STC">Wing W982</idno>
+            <idno type="STC">Thomason E691_12</idno>
+            <idno type="STC">Thomason E691_11</idno>
+            <idno type="STC">ESTC R211118</idno>
+            <idno type="EEBO-CITATION">99869852</idno>
+            <idno type="PROQUEST">99869852</idno>
+            <idno type="VID">166488</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97230)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166488)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 107:E691[11] or 107:E691[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Causes of the Lords vvrath against Scotland, manifested in his sad late dispensations. Whereunto is added a paper, particularly holding forth the sins of the ministery.</title>
+                  <author>Warriston, Archibald Johnston, Lord, 1611-1663.</author>
+               </titleStmt>
+               <extent>64, 75-97, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the year 1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Archibald Johnson, Lord Warriston.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>"A humble acknowledgment of the sins of the ministery of Scotland" has separate dated title page; pagination and register are continuous.</note>
+                  <note>Annotation on Thomason copy on E.691[11]: "Aprill"; on E.691[12]: "Aprill"; "Postscript which cannot be gotton printed .." on final page.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  History, (17th century) --  Early works to 1800.</term>
+               <term>God --  Wrath --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166488:1" rendition="simple:additions"/>
+            <p>A Humble ACKNOWLEDGMENT OF THE SINS OF THE MINISTERY OF SCOTLAND.</p>
+            <p>Printed in the year 1653.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:166488:2"/>
+            <head>The Preface.</head>
+            <p>ALthough we are not ignorant, that mockers of all ſorts may take occaſion by this Acknowledgment of the Sins of Mini<g ref="char:EOLhyphen"/>ſters, to ſtrengthen themſelves in their prejudices at our perſons and Callings, and turn this unto our reproach, and that ſome may miſconſtrue our meaning therein, as if we did thereby intend to render the Miniſtery of this Church baſe and contemptible, which is far from our thoughts, We knowing and being perſwaded in our ſelves, that there are many able, godly and faithful Miniſters in the Land; yet being convinced that we are called to humble our ſelves, and to juſtifie the Lord in all the contempt that he hath poured upon us: That they who ſhall know our ſins, may not ſtumble at our judgments: We have thought it our duty to publiſh this following Diſcovery and Acknowledgment of the corruptions and ſins of Miniſters, That it may appear how deep our hand is in the Tranſgreſsion, and that the Miniſters of <hi>Scotland</hi> have no ſmall acceſsion to the drawing on of theſe judgments that are upon the Land.</p>
+            <p>Only in this following Acknowledgment we deſire it may be conſidered, That there are here enumerated ſome ſins, whereof there be but ſome few Miniſters guilty, and others whereof mee are guil<g ref="char:EOLhyphen"/>ty, and not a few, which are the ſins of theſe whom the Lord hath keeped from the more groſſe corruptions herein mentioned; And that it is not to be wondered at, if the Miniſtery of <hi>Scotland</hi> he yet in a great meaſure unpurged, Conſidering that there was ſo wide a door opened for the entering of corrupt perſons into the Miniſtery, for the ſpace of above thirty years under the tyranny of Prelats, and that alſo there hath been ſo many diverſions from, and inter<g ref="char:EOLhyphen"/>ruptions of endeavours to have a purged Miniſtery in this Land.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="85" facs="tcp:166488:2"/>
+            <head>THE SINS of the MINISTERY.</head>
+            <div n="before ministery" type="part">
+               <head>Firſt, ſuch as are before their entry to the Miniſtery.</head>
+               <p n="1">1. <seg rend="decorInit">L</seg>Ightneſs and prophanity in converſation, un<g ref="char:EOLhyphen"/>ſuitable to that holy Calling which they did intend, not throughly repented of.</p>
+               <p n="2">2. Corrupt education of ſome in the Pre<g ref="char:EOLhyphen"/>laticall and Arminian way, whereby their corruptions and errors were drunken in, and abilities improven, for ſtrengthening and promoving the ſame, not repented of.</p>
+               <p n="3">3. Not ſtudying to be in CHRIST, before they be in the Mini<g ref="char:EOLhyphen"/>ſtery; nor to have the practicall knowledge and experience of the Myſtery of the Goſpel in themſelves, before they preach it to o<g ref="char:EOLhyphen"/>thers.</p>
+               <p n="4">4. Neglecting to fit themſelves for the Work of the Miniſterie in not improving prayer and fellowſhip with God, education at Schools and oportunities of a lively Miniſtery, and other means, and not mourning for theſe neglects.</p>
+               <p n="5">5. Not ſtudying ſelf-denyall, nor reſolving to take up the Croſſe of CHRIST.</p>
+               <p n="6">6. Negligence to entertain ſight and ſenſe of ſin and miſery, not wreſtling againſt corruption, nor ſtudying of mortification and ſub<g ref="char:EOLhyphen"/>duedneſſe of ſpirit.</p>
+            </div>
+            <div n="entering ministery" type="part">
+               <head>Secondly, in entering.</head>
+               <p n="1">1. CArnall, corrupt and crooked wayes for entering to the Mi<g ref="char:EOLhyphen"/>niſtery, ſuch as bribing in the time of Prelacie, ſolicitation
+<pb n="86" facs="tcp:166488:3"/>of friends and the like; whereby many have not entered by the door, but did climb up another way.</p>
+               <p n="2">2. Entering to the Miniſtery by an implicite, execrable, Canonicall Oath and ſubſcription given to the Prelats for acknowledging them, and advancing their corruptions introduced and to be intro<g ref="char:EOLhyphen"/>duced.</p>
+               <p n="3">3. Entering to the Miniſtery without tryals, and receiving ordina<g ref="char:EOLhyphen"/>tion either from the Prelat, or by a recommendation from him to the Presbyterie, and ſometimes without or againſt the minde of the Presbyterie.</p>
+               <p n="4">4. Entering either only by Preſentations, or by purchaſed Supplica<g ref="char:EOLhyphen"/>tions from the plurality of the Parochiners, without or againſt the conſent of the godly in the Parioch.</p>
+               <p n="5">5. Entering to the Miniſtery without reſpect to a Commiſſion from Jeſus Chriſt, by which it hath come to paſſe, that many have run unſent.</p>
+               <p n="6">6. Entering to the Miniſtery not from the love of Chriſt, nor from a deſire to honour God in gaining of ſouls; but for by-ends, for a name, and for lively hood in the World, notwithſtanding ſolemne declaration to the contrary at admiſſion.</p>
+               <p n="7">7. Some offering themſelves to tryall without abilities, and ſtudy<g ref="char:EOLhyphen"/>ing to conceal and hide their weakneſſe, by making uſe of the help and pains of ſome friend and acquaintance, or other mens Papers, in ſeverall parts of the tryall; and ſome authorized to preach, and o<g ref="char:EOLhyphen"/>thers admitted to the Miniſtery, who have little or no ability for performing the duties thereof.</p>
+               <p n="8">8. Too much weighed with inclination to be called to the Miniſte<g ref="char:EOLhyphen"/>ry in a place where we have carnall relation.</p>
+            </div>
+            <div n="private condition" type="part">
+               <head>Thirdly, After entering, which is firſt in their private condition and converſation.</head>
+               <p n="1">1. IGnorance of God, want of nearneſſe with him, and taking up little of God in reading, meditating, and ſpeaking of him.</p>
+               <p n="2">2. Exceeding great ſelfiſhneſſe in all that we do, acting from our ſelves, for our ſelves, and to our ſelves.</p>
+               <p n="3">3. Not caring how unfaithfull and negligent others were, ſo being it might contribute a teſtimony to our faithfulneſſe and diligence: but being rather content, if not rejoycing at their fault.</p>
+               <p n="4">4. Leaſt delight in theſe things wherein lyeth our neareſt com<g ref="char:EOLhyphen"/>munion <pb n="87" facs="tcp:166488:3"/>with God, great inconſtancie in our walk with. God, and neglect of acknowledging of him in all our wayes.</p>
+               <p n="5">5. In going about duties, leaſt carefull of theſe which are moſt re<g ref="char:EOLhyphen"/>mote from the eyes of men.</p>
+               <p n="6">6. Seldome in ſecret prayer with God, except to fit for Publick per<g ref="char:EOLhyphen"/>formances, and even that much neglected, or gone about very ſuper<g ref="char:EOLhyphen"/>ficially.</p>
+               <p n="7">7. Glad to find excuſes for the neglect of duties.</p>
+               <p n="8">8. Neglecting the reading of Scriptures in ſecret, for edifying our ſelves as Chriſtians, only reading them in ſo far as may fit us for our duty as Miniſters, and oft-times neglecting that.</p>
+               <p n="9">9. Not given to reflect upon our own wayes, nor ſuffering convi<g ref="char:EOLhyphen"/>ction to have a through work upon us, deceiving our ſelves by reſt<g ref="char:EOLhyphen"/>ing upon abſtinence from, and abhorrencie of evils, from the light of a naturall conſcience, and looking upon the ſame as an evidence of a reall change.</p>
+               <p n="10">10. Evill guarding of, and watching over the heart, and careleſneſſe in ſelf-ſearching, which makes much unacquaintedneſſe with our ſelves, and eſtrangedneſſe from God.</p>
+               <p n="11">11. Not guarding nor wreſtling againſt ſeen and known ills, eſpeci<g ref="char:EOLhyphen"/>ally our predominants.</p>
+               <p n="12">12. A facilitie to be drawn away with the temptations of the time, and other particular temptations, according to our inclinations and fellowſhip.</p>
+               <p n="13">13. Inſtability and wavering in the wayes of God through the fears of perſecution, hazard, or loſs of eſteem, and declining duties, becauſe of the fear of jealouſies and reproaches.</p>
+               <p n="14">14. Not eſteeming the Croſſe of Chriſt and ſufferings for his Name honourable, but rather ſhifting ſufferings from ſelf-love.</p>
+               <p n="15">15. Deadneſſe of ſpirit after all the ſore ſtroaks of God upon the Land.</p>
+               <p n="16">16. Little conſcierce made of ſecret humiliation and faſting by our ſelves apart, and in our Families; that we might mourn for our own and the Lands guiltineſſe and great back-ſlidings, and little ap<g ref="char:EOLhyphen"/>plying the Cauſes of publick humiliation to our own hearts.</p>
+               <p n="17">17. Finding of our own pleaſures, when the Lord cals for humili<g ref="char:EOLhyphen"/>ation.</p>
+               <p n="18">18. Not laying to heart the ſad and heavy ſufferings of the people of God abroad, and the not thriving of the Kingdom of Jeſus
+<pb n="88" facs="tcp:166488:4"/>Chriſt, and the power of godlineſs among them.</p>
+               <p n="19">19. Refined hypocriſie, deſiring to appear what indeed we are not.</p>
+               <p n="20">20. Studying more to learn the language of Gods people nor their exerciſe.</p>
+               <p n="21">21. Artificiall confeſsing of ſin without repentance, profeſsing to declare iniquity, and not reſolving to be ſory for ſin.</p>
+               <p n="22">22. Confeſsion in ſecret much ſlighted, even of theſe things where<g ref="char:EOLhyphen"/>of we are convinced.</p>
+               <p n="23">23. No Reformation after ſolemn acknowledgments and private Vows, thinking our ſelves exonered after Confeſsion.</p>
+               <p n="24">24. Readier to ſearch out and cenſure faults in others, then to ſee or take with them in our ſelves.</p>
+               <p n="25">25. Accounting of our eſtate and way according to the eſtimati<g ref="char:EOLhyphen"/>on that others have of us.</p>
+               <p n="26">26. Eſtimation of men as they agree with or diſagree from us.</p>
+               <p n="27">27. Not fearing to meet with tryals, but preſuming in our own ſtrength to go through them unſhaken.</p>
+               <p n="28">28. Not learning to fear by the falls of gracious men, nor mourning and Praying for them.</p>
+               <p n="29">29. Not obſerving particular deliverances and rods, not improving of them for the honor of God, and edification of our ſelves and others.</p>
+               <p n="30">30. Little or no mourning for the corruption of our nature, and leſs groaning under, and longing to be delivered from that body of death, the bitter root of all our other evils.</p>
+            </div>
+            <div n="conversation" type="part">
+               <head>Secondly, in our Converſation and Walk with and before theſe of our Flocks and others.</head>
+               <p n="1">1. FRuitleſs converſing ordinarily with others for the worſe rather then for the better.</p>
+               <p n="2">2. Fooliſh jeſting away time with impertinent and uſeleſs diſ<g ref="char:EOLhyphen"/>courſe, very unſeeming the Miniſters of the Goſpel.</p>
+               <p n="3">3. Spirituall purpoſes often dying in our hands, when they are be<g ref="char:EOLhyphen"/>gun by others.</p>
+               <p n="4">4. Carnal familiarity with naturall wicked and Malignant men, whereby they are hardened, the People of God ſtumbled, and we our ſelves blunted.</p>
+               <p n="5">5. Slighting fellowſhip with theſe by whom we might profit.</p>
+               <pb n="89" facs="tcp:166488:4"/>
+               <p n="6">6. Deſiring more to converſe with theſe that might better us by their parts, then ſuch as might edifie us by their graces.</p>
+               <p n="7">7. Not ſtudying opportunities of doing good to others.</p>
+               <p n="8">8. Shifting of prayer and other duties when called thereto, chooſ<g ref="char:EOLhyphen"/>ing rather to omit the ſame, then we ſhould be put to them our ſe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ves.</p>
+               <p n="9">9. Abuſing of time in frequent recreation and paſtimes, and loving our pleaſures more then God.</p>
+               <p n="10">10. Taking little or no time to Chriſtian Diſcourſe with young men trained up for the Miniſtery.</p>
+               <p n="11">11. Common and ordinary diſcourſe on the Lords Day.</p>
+               <p n="12">12. Slighting Chriſtian Admonition from any of our Flocks, or others as being below us, and aſhamed to take light and warning from private Chriſtians.</p>
+               <p n="13">13. Diſlike of, or bitterneſſe againſt ſuch as deal freely with us by admonition or reproof, and not dealing faithfully with others who would welcome it off our hands.</p>
+               <p n="14">14. Not making conſcience to take pains on the ignorant and pro<g ref="char:EOLhyphen"/>phane for their good.</p>
+               <p n="15">15. Our not mourning for the ignorance, unbelief, and miſcarriages of the Flocks committed unto us.</p>
+               <p n="16">16. Impatient bearing of the infirmities of others, raſhly breaking out againſt their perſons, more then ſtudying to gain them from their ſins.</p>
+               <p n="17">17. Not uſing freedom with theſe of our charge, and for moſt part ſpending our time with them in common diſcourſes, not tending to Edification.</p>
+               <p n="18">18. Neglecting Admonition to friends and others in an evil courſe.</p>
+               <p n="19">19. Reſervedneſſe in laying out our condition to others.</p>
+               <p n="20">20. Not praying for men of a contrary judgment, but uſing reſer<g ref="char:EOLhyphen"/>vedneſſe and diſtance from them, being more ready to ſpeak of them then to them, or to God for them.</p>
+               <p n="21">21. Not weighed with the failings and miſcarriages of others, but rather taking advantage thereof for juſtifying our ſelves.</p>
+               <p n="22">22. Talking of, and ſporting at the faults of others, rather then compaſſionating of them.</p>
+               <p n="23">23. No pains taken in religious ordering of our families, nor ſtudy<g ref="char:EOLhyphen"/>ing to be Paterns to other Families in the government of ours.</p>
+               <p n="24">24. Haſty anger and paſſion in our Families and converſation with others.</p>
+               <pb n="90" facs="tcp:166488:5"/>
+               <p n="25">25. Covetouſneſſe, worldly mindneſſe, and an inordinate deſire af<g ref="char:EOLhyphen"/>ter the things of this life, upon which followeth a neglect of the Duties of our Calling, and our being takenup for the moſt part with the things of the world.</p>
+               <p n="26">26. Want of Hoſpitality and Charity to the Members of Chriſt.</p>
+               <p n="27">27. Not cheriſhing Godlineſſe in the People, and ſome being afraid of it, and hating the people of God for Piety, and ſtudying to bear down and quench the work of the ſpirit amongſt them.</p>
+            </div>
+            <div n="duties" type="part">
+               <head>Thirdly in the diſcharge of Miniſterial Duties, which is firſt in regard of labouring in the Word and Doctrine.</head>
+               <p>NOt entertaining that edge of ſpirit in Miniſteriall Duties, which we found at the firſt entry to the Miniſtery.</p>
+               <p n="2">2. Great neglect of reading and other preparation, or preparation meerly Litteral and bookiſh, making an idoll of a book, which hindereth Communion with God, or preſuming on bygone aſsiſt<g ref="char:EOLhyphen"/>ance, and praying little.</p>
+               <p n="3">3. Truſting to gifts, parts and pains taken for preparation, where<g ref="char:EOLhyphen"/>by God is provoked, to blaſte good matter well ordered and worded.</p>
+               <p n="3">3. Careleſſe in imploying CHRIST, and drawing vertue out of him for inabling us to preach in the Spirit and in power.</p>
+               <p n="4">4. In Prayer for aſsiſtance, we pray more for aſsiſtance to the Meſ<g ref="char:EOLhyphen"/>ſenger then to the Meſſage which we carry, not caring what be<g ref="char:EOLhyphen"/>come of the Word, if we be with ſome meaſure of aſsiſtance carri<g ref="char:EOLhyphen"/>ed on in the Duty.</p>
+               <p n="5">5. The matter we bring forth is not ſeriouſly recommended to God by Prayer to be quickened to his People.</p>
+               <p n="6">6. Neglect of Prayer after the Word is Preached, that it may re<g ref="char:EOLhyphen"/>ceive the firſt and latter rain; and that the Lord would put in the hearts of his People what we ſpeak to them in his Name.</p>
+               <p n="7">7. Neglect to warn in Preaching of ſnares and ſin in Publick affairs by ſome, and too much frequent and unneceſſary ſpeaking by others of Publick buſineſſe and Tranſactions,</p>
+               <p n="8">8. Exceeding great neglect and unskilfulneſſe to ſet forth the ex<g ref="char:EOLhyphen"/>cellencies and uſefulneſs of Jeſus Chriſt, and the New Covenant which ought to be the great ſubject of a Miniſters Study and Preaching.</p>
+               <pb n="91" facs="tcp:166488:5"/>
+               <p n="10">10. Speaking of CHRIST more by hear-ſay then from know<g ref="char:EOLhyphen"/>ledge and experience, or any reall impreſsion of him upon the heart.</p>
+               <p n="11">11. The way of moſt Miniſters Preaching too Legall.</p>
+               <p n="12">12. Want of ſobriety in Preaching the Goſpel, not ſavouring any thing but what is new, ſo that the Subſtantials of Religion bear but little bulk.</p>
+               <p n="13">13. Not Preaching Chriſt in the ſimplicity of the Goſpel, nor our ſelves the Peoples ſervants for Chriſt ſake.</p>
+               <p n="14">14. Preaching of Chriſt not that the People may know Him, but that they may think we know much of him.</p>
+               <p n="15">15. Preaching anent Chriſts leaving the Land without brokenneſſe of hearts or up-ſtirring of our ſelves to take hold of h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m.</p>
+               <p n="16">16. Not Preaching with bowels of compaſſion to them who are in hazard to periſh.</p>
+               <p n="17">17. Preaching againſt Publick ſins, neither in ſuch a way nor for ſuch an end as we ought for the gaining of ſouls, and drawing men out of their ſins, but rather becauſe it is of our concernment to ſay ſomething of theſe evils.</p>
+               <p n="18">18. Bitterneſſe in ſtead of zeal, in ſpeaking againſt Malignants, Sectaries, and other ſcandalous perſons, and unfaithfulneſſe therein.</p>
+               <p n="19">19. Not ſtudying to know the particular condition of the ſouls of the people, that we may ſpeak to them accordingly, nor keeping a particular record thereof, though convinced of the uſefulneſſe of this.</p>
+               <p n="20">20. Not wealing what may be moſt profitable and Edifying, and want of wiſedome in appl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cation to the ſeverall conditions of ſouls, not ſo carefull to bring home the point by application as to finde out the Doctrine, nor ſpeaking, the ſame with that reverence which becomes his Word and Meſſage.</p>
+               <p n="21">21. Chooſing texts whereon we have ſomething to ſay rather then ſuting to the condition of ſouls and times, and frequent preaching of the ſame things that we may not be put to the pains of new ſtudie.</p>
+               <p n="22">22. Such a way of Reading, Preaching and Prayer as puts us in theſe Duties further from GOD.</p>
+               <p n="23">23. Too ſoon ſatisfied in the diſcharge of Duties, and holding off challenges with excuſes.</p>
+               <pb n="92" facs="tcp:166488:6"/>
+               <p n="24">24. Indulging the bodie, and waſting much time idlely.</p>
+               <p n="25">25. Too much eying our own credite and applauſe, and being taken with it, when we get it, and unſatisfied when it is wanting.</p>
+               <p n="26">26. Timorouſneſſe in delivering Gods Meſſage, letting people dye in reigning ſins without warning.</p>
+               <p n="27">27. Vokineſſe and pride of heart becauſe the Lord fulfilled our word in they year 1648.</p>
+               <p n="28">28. Raſh ſpeaking in the Name of the Lord in reference to the ſucceſſe of our Armies of late.</p>
+               <p n="29">29. Studying the diſcharge of Duties, rather to free our ſelves from cenſure, then to approve our ſelves to God.</p>
+               <p n="30">30. Shifting to preach in places where we were for the time for fear of diſpleating, in this time of Publick backſliding and triall.</p>
+               <p n="31">31. Not making all the Counſell of God known to his People, and particularly not giving teſtimony in times of defection.</p>
+               <p n="32">32. Not ſtudying to profite by our own doctrine, nor the doctrine of others.</p>
+               <p n="33">33. For moſt part preaching, as we our ſelves were not concerned in the Meſsage we carry to the People.</p>
+               <p n="34">34. Not rejoycing at the converſion of ſinners, but content with the unthriving of the Lords Work amongſt his people as ſuteing beſt with our minds, fearing if they ſhould thrive better, we ſhould be more put to it, and leſs eſteemed of by them.</p>
+               <p n="35">35. Many in Preaching and practice, bearing down the power of godlineſs.</p>
+               <p n="36">36. Unfaithfull diſcharge of Miniſteriall Duties in attending the Armies.</p>
+               <p n="37">37. We Preach not as before God, but as to men, as doth appear by the different pains in our preparation to ſpeak to our or<g ref="char:EOLhyphen"/>dinary hearers, and to others to whom we would approve our ſelves.</p>
+               <p n="38">38. Not making the Miniſtery a work in earneſt as a thing to be ac<g ref="char:EOLhyphen"/>counted for in every duty, which makes much lazineſs and unfruit<g ref="char:EOLhyphen"/>fulneſs, doing duties <hi>ex officio,</hi> not <hi>ex conſcientia officii,</hi> rather to diſcharge our Calling nor our conſcience.</p>
+            </div>
+            <div n="sacraments" type="part">
+               <pb n="93" facs="tcp:166488:6"/>
+               <head>Secondly, In the Adminiſtration of Sacraments. <hi>l.</hi> In Baptiſme.</head>
+               <p>LIttle minding in our ſelves, or ſtirring up of others to minde the obligation that lyes on us and them, by the Covenant made with God in Baptiſme.</p>
+               <p n="2">2. Not inſtructing Parents in their duty, not charging them with their promiſe given at the Baptizing of their Children, nor trying what pains they have taken to perform the ſame.</p>
+               <p n="3">3. Being very ſuperficiall and formall in the adminiſtration of this Ordinance.</p>
+            </div>
+            <div n="Lord's supper" type="part">
+               <head>Thirdly, In the Adminiſtration of the Lords Supper.</head>
+               <p>ADmitting of mixt multitudes to the Lords Table, not ſepara<g ref="char:EOLhyphen"/>ting betwixt the precious and the vile.</p>
+               <p n="2">2. Unequall dealing with poor and rich, in admitting to, or ſuſpen<g ref="char:EOLhyphen"/>ding and debarring from the Lords Table.</p>
+               <p n="3">3. Great neglect to prepare for that action, preparing for it more as Miniſters, then as Chriſtians.</p>
+               <p n="4">4. Carnall and unworthy carriage of Miniſters at the Communion, being more deſirous to have that action by our hands, with credit to our ſelves, then with profit to the people.</p>
+               <p n="5">5. Thinking when that action is by-hand, that we have a vacancie from other Miniſteriall duties for a time.</p>
+               <p n="6">6. Little wreſtling with God to have the People prepared for it, or the guilt of prophaning of it by our ſelves and others taken away.</p>
+            </div>
+            <div n="visiting" type="part">
+               <head>Fourthly, In Viſiting.</head>
+               <p>NEgligent, lazie and partiall viſiting the ſick; if they be poor, we go once, and only when ſent for; If they be rich and of better note, we go oftner, and unſent for.</p>
+               <p n="2">2. Not knowing how to ſpeak with the tongue of the Learned a word in ſeaſon to the weary and exerciſed in conſcience, nor to ſuch as are under the loſſe of husband, wife, children, friends or goods, for the improving of theſe tryals to their ſpirituall advan<g ref="char:EOLhyphen"/>tage, nor to dying perſons.</p>
+               <p n="3">3. In viſiting, wearying, or ſhunning to go to ſuch as we eſteem graceleſſe.</p>
+               <pb n="94" facs="tcp:166488:7"/>
+               <p n="4">4. Not viſiting the People from houſe to houſe, nor praying with them at fit opportunities.</p>
+            </div>
+            <div n="catechising" type="part">
+               <head>
+                  <hi>4.</hi> In Catechiſing.</head>
+               <p n="1">1. LAzie and negligent in Catechiſing.</p>
+               <p n="2">2. Not prepating our hearts before, nor wreſtling with God for a bleſſing to it, becauſe of the ordinarineſs, and apprehended eaſineſs of it; whereby the Lords Name is much taken in vain, and the People little profited.</p>
+               <p n="3">3. Looking on that Exerciſe as a work below us, and not conde<g ref="char:EOLhyphen"/>ſcending to ſtudy a right and profitable way of inſtructing the Lords People.</p>
+               <p n="4">4. Partial in Catechiſing, paſſing by theſe that are rich and of bet<g ref="char:EOLhyphen"/>ter quality, though many of ſuch ſtand ordinarly in great need of inſtruction.</p>
+               <p n="5">5. Not waiting upon and following the ignorant, but paſſionatly upbraiding of them often.</p>
+            </div>
+            <div n="discipline" type="part">
+               <head>
+                  <hi>5.</hi> In Ruling and Diſcipline.</head>
+               <p n="1">1. NOt making uſe of this Ordinance of Church-Cenſures for gaining of ſouls, but turning it in a meer Civil puniſhment; and in the adminiſtration thereof becoming either cold rife, or without a ſpirit of meekneſs, and uſing a way either meerly rati<g ref="char:EOLhyphen"/>onal by worldly wiſdom, or meerly authoritative, more then by motives drawn from the love of Chriſt; and by our carriage in Ju<g ref="char:EOLhyphen"/>dicatories putting a humane ſhape upon the Ordinances of Jeſus Chriſt, carrying out ſelves in too ſtately a way, like the men of this world.</p>
+               <p n="2">2. Partiality in adminiſtration of Cenſures with reſpect of perſons, not uſing the like faithful freedom towards high and low; fib and framed.</p>
+               <p n="3">3. Raſh taking on us to open and ſhut Chriſts door.</p>
+               <p n="4">4. By our practice, teaching (as it were) formalitie in Repen<g ref="char:EOLhyphen"/>tance to offenders, hardening them in their ſins, by accepting bare forms without any evidence of Repentance, and looſing when we were perſwaded Chriſt did not looſe; and of late turning profeſ<g ref="char:EOLhyphen"/>ſion of Repentance into a State engine for men to ſtep unto prefer<g ref="char:EOLhyphen"/>ment and publick employments.</p>
+               <pb n="95" facs="tcp:166488:7"/>
+               <p n="5">5. Following ſcandalous perſons with the higheſt Cenſures of the Kirk, with little or no care to hold them up to God.</p>
+               <p n="6">6. Want of compaſſion to theſe on whom Diſcipline is exerciſed, not laboring to convince them of ſin, but imperiouſly and with paſ<g ref="char:EOLhyphen"/>ſion inſtead of zeal threatning them, thinking it ſufficient if we be obeyed, though they be not gained to Chriſt.</p>
+               <p n="7">7. Superficial, ſinful, and ſlight cenſuring one another, at times ap<g ref="char:EOLhyphen"/>pointed for that end in Presbyteries and Synods, and neglect of faithful freedom and love in performing that duty.</p>
+               <p n="8">8. Admitting of men to the Miniſtry who were not qualified with Grace aſwel as Gifts, notwithſtanding the Word of God and Con<g ref="char:EOLhyphen"/>ſtitutions of this Kirk do require the one, aſwel as the other; which hath been the fountain of many evils.</p>
+               <p n="9">9. Great unfaithfulneſs in bringing in, and holding in, unworthy perſons in the Miniſtry, and keeping Cenſure off unfaithful men.</p>
+               <p n="10">10. Unfaithfulneſs in giving Teſtimonials and Recommendations, and receiving perſons upon Teſtimonials meerly negative, eſpecially Expectants and Students of Divinity.</p>
+               <p n="11">11. Conſtituting Elderſhips of ſuch men as are known to be igno<g ref="char:EOLhyphen"/>rant, prophane and diſaffected to the Work of God, and being careleſs to have them conſiſting of the moſt able and godly men within the Congregation, a great cauſe of much ignorance, pro<g ref="char:EOLhyphen"/>phane and ſcandalous carriage among the People.</p>
+               <p n="12">12. Neglecting to remove from the Elderſhips ſuch as are ignorant and ſcandalous.</p>
+               <p n="13">13. Neglecting to hold out the neceſſary qualifications and duties of Ruling Elders, and to ſtir them up to their duty.</p>
+               <p n="14">14. Not carrying our ſelves in Judicatories and otherwayes to<g ref="char:EOLhyphen"/>ward Ruling Elders as toward Brethren, and joynt Overſeers in the work of the Lord.</p>
+               <p n="15">15. Not making conſcience of keeping Kirk Judicatories, but wea<g ref="char:EOLhyphen"/>rying of the expences and attendance, whereby diverſe things hath been haſtert and miſcarried therein: willing deſerting of them, and ſhunning to give teſtimony in them, for fear of inconveniences.</p>
+               <p n="16">16. Not ſtouping to a gaining way in Debates, nor making appli<g ref="char:EOLhyphen"/>cation to God for knowledge of his mind in things debated, before they paſs in a concluſion.</p>
+               <p n="17">17. Wearying to hear men fully who repreſent their doubts, and to weigh all the Arguments that can be repreſented for the nega<g ref="char:EOLhyphen"/>tive, before the affirmative be concluded.</p>
+               <pb n="96" facs="tcp:166488:8"/>
+               <p n="18">18. Too great animofities in Judicatories, even about matters of ſmall wright.</p>
+               <p n="19">19. Pride, impatience and peremptorineſs of ſpirit, not ſtaying on others clearneſs in our debates and concluſions, through which it comes to p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs that we judge raſhly of precious men, and alienation of affection ſteals in and is entertamed.</p>
+               <p n="20">20. Haſty concluding of Acts &amp; preſting obedience thereto with<g ref="char:EOLhyphen"/>out convincing grounds holden forth from Scripture for ſatisfying the conſciences of the Lords People.</p>
+               <p n="21">22. Silence in Aſſemblies when unſatisfied, being carried by the au<g ref="char:EOLhyphen"/>thority of men, and too much following other mens light and ſup<g ref="char:EOLhyphen"/>preſſing their own.</p>
+               <p n="22">22. Making Votes ſubſervient to the humors of men and humane intereſts.</p>
+               <p n="23">23. Some altogether neglecting wholſome Acts and Conſtitutions of Aſſemblies, and others, receiving their Acts too implicitly.</p>
+               <p n="24">24. Too bitter expreſſions againſt Adverſaries in Publick Papers and Sermons, for eſſewing reproaches, whereof there is no fruit but irritation.</p>
+               <p n="25">25. Abuſing tranſportations by making them too freequent, and almoſt the ordinary way of Planting places of any eminency; ſome<g ref="char:EOLhyphen"/>times enacting them when there is no preſſing neceſſity, and with<g ref="char:EOLhyphen"/>out tender endeavouring the ſatisfaction of the People intereſted, and without care of providing them thereafter.</p>
+            </div>
+            <div n="public" type="part">
+               <head>In relation to the Publick.</head>
+               <p n="1">1. NOt ſtudying the controverſies of the time, that we might be enabled to hold forth light, and convince gain-ſayers of the truth.</p>
+               <p n="2">2. Not fearing to meddle in matters too high for us, and deſiring to be taken notice of, more then to be ſtedable in the Publick.</p>
+               <p n="3">3. Following of Publick buiſineſs, with too much neglect of our Flocks.</p>
+               <p n="4">4. Following of Publick buſineſs with much pride and paſſion, and loftineſs of ſpirit upon carnal principles and deſire to be eſteemed of, rather then true zeal to Jeſus Chriſt and his matters, and with little or no prayer.</p>
+               <p n="5">5. Superficial admitting of all to the Covenants, and ſolemn Ac<g ref="char:EOLhyphen"/>knowledgment, <pb n="97" facs="tcp:166488:8"/>without taking ſufficient pains to inſtruct and in<g ref="char:EOLhyphen"/>form them in the knowledge of the things contained therein.</p>
+               <p n="6">6. Being too inſtrumental for bringing diſaffected perſons to truſt.</p>
+               <p n="7">7. Inequal zeal againſt enemies, cooling in our zeal againſt one enemy as it is increaſt againſt another.</p>
+               <p n="8">8. Much repining at the judgments of God upon the Land from carnal reſpects, and transferring the cauſes of the wrath off our ſelves upon others.</p>
+               <p n="9">9. Too eaſie ſatisfied in ſuch things as might tend to the prejudice of Chriſts intereſt, weighing the conſequences of great Revoluti<g ref="char:EOLhyphen"/>ons more by reſpect to our ſelves, then to his honor.</p>
+               <p n="10">10. Agreeing to receive the King to the Covenant barely upon writing, without any apparent evidences of a real change of prin<g ref="char:EOLhyphen"/>ciples.</p>
+               <p n="11">11. Not uſing freedom in ſhewing what we were convinced, was ſinful in reference to the late Treaty with the King, but going on therein when we were not ſatisfied in our conſciences for fear of reproach and of being miſtaken.</p>
+               <p n="12">12. Silence in Publick, and not giving Teſtimony after a diſcovery of the Kings Commiſſion given to <hi>James Graham,</hi> for invading the Kingdom.</p>
+               <p n="13">13. Preſſing the King to make a Declaration to the world, whileſt we knew by clear evidences that he had no real conviction of the things contained therein.</p>
+               <p n="14">14. Too much deſiring to lurk upon by-ends, when called to give a Teſtimony.</p>
+               <p n="15">15. Not bearing Teſtimony againſt Publick Defections in a right and ſpiritual way.</p>
+               <p n="16">16. Unfaithfulneſs in bearing burden with them, whom the Lord raiſed up to be his witneſſes againſt the publick backſlidings, omit<g ref="char:EOLhyphen"/>ting to bear Teſtimony our ſelves upon carnal reſpects and luke<g ref="char:EOLhyphen"/>warmneſs in adhering to publick Teſtimonies formerly given.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:166488:9" rendition="simple:additions"/>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>COrrect ſome few faults that hath eſcaped, thus: p. 7. l. 3. r. cauſes p. 10. l 5. r. having p. 13. l. 24. r. not a few. p. 35. l. 8. r. ſlandereth. p. 37. l. 4. for ſabbath r. ſabba<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th <hi>ibid.</hi> l. 25. after hath, add come to paſs. p . 37. l. <hi>ult.</hi> dele and. p. 42. l. 1. r. to-dele for: <hi>bin.</hi> for and r. for. p 43. l 18. for do r. did. l. 35. for judgements r. inducements. p. 46. l. 10. for ſcruples r. Scriptures. p.
+59. l. <hi>ult.</hi> for of r. if. p. 61. l. 4. r. ap<g ref="char:EOLhyphen"/>proven. p. 62. l. 32. for the to, r. to the p. 63. l. 7. for if it poſſible, r. if it be poſſible. p. 64 l. 36. for heathen r. heath.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
